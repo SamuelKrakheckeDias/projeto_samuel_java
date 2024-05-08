@@ -1,1 +1,1 @@
-# projeto_samuel_js
+# projeto.javascript
